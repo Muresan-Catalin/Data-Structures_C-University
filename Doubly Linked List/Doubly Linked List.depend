@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1633435255 source:c:\users\cata\desktop\doubly linked list\suma.c
+	"suma.h"
+
+1633435153 c:\users\cata\desktop\doubly linked list\suma.h
+
+1634041404 source:c:\users\cata\desktop\doubly linked list\lista.c
+	"lista.h"
+	<stdlib.h>
+	<stdio.h>
+
+1634041516 c:\users\cata\desktop\doubly linked list\lista.h
+
+1634042167 source:c:\users\cata\desktop\doubly linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

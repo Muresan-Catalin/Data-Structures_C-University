@@ -1,0 +1,3 @@
+﻿  arbore.c
+C:\Users\Cata\Desktop\Informatica\FSEGA Algoritmi\Arbori Rosu Negru\Arbori Rosu Negru\arbore.c(32,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  Arbori Rosu Negru.vcxproj -> C:\Users\Cata\Desktop\Informatica\FSEGA Algoritmi\Arbori Rosu Negru\Debug\Arbori Rosu Negru.exe
