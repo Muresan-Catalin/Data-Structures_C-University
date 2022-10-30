@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634671900 source:c:\users\cata\desktop\informatica\fsega algoritmi\queue (coada)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"coada.h"
+
+1634672783 source:c:\users\cata\desktop\informatica\fsega algoritmi\queue (coada)\coada.c
+	"coada.h"
+	<stdio.h>
+	<stdlib.h>
+
+1634670116 c:\users\cata\desktop\informatica\fsega algoritmi\queue (coada)\coada.h
+

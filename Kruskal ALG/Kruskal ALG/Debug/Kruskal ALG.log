@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Cata\Desktop\Informatica\FSEGA Algoritmi\Kruskal ALG\Kruskal ALG\main.c(105,12): warning C4101: 'j': unreferenced local variable
+C:\Users\Cata\Desktop\Informatica\FSEGA Algoritmi\Kruskal ALG\Kruskal ALG\main.c(105,9): warning C4101: 'i': unreferenced local variable
+C:\Users\Cata\Desktop\Informatica\FSEGA Algoritmi\Kruskal ALG\Kruskal ALG\main.c(105,15): warning C4101: 'total_cost': unreferenced local variable
+  Kruskal ALG.vcxproj -> C:\Users\Cata\Desktop\Informatica\FSEGA Algoritmi\Kruskal ALG\Debug\Kruskal ALG.exe

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634645798 source:c:\users\cata\desktop\informatica\fsega algoritmi\stack (stiva)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1634645652 source:c:\users\cata\desktop\informatica\fsega algoritmi\stack (stiva)\stack.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1634645623 c:\users\cata\desktop\informatica\fsega algoritmi\stack (stiva)\stack.h
+
